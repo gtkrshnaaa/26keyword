@@ -1,6 +1,6 @@
 const paragraphs = [
    "the quick brown fox jumps over the lazy dog"
-   "if const else true false alert var console.log let function document.querySelector "
+   "if const else true false alert var console.log let function document.querySelector"
 
 ];
 
