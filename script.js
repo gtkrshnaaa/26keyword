@@ -1,7 +1,5 @@
 const paragraphs = [
    "the quick brown fox jumps over the lazy dog",
-   "const function document.querySelector let if else true false",
-   "12345678910 10987654321 127784150019746"
 ];
 
 const typingText = document.querySelector(".typing-text p")
